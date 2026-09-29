@@ -10,7 +10,7 @@
 <header class="site-header">
   <div class="header-inner">
     <a href="<?php echo $basePath; ?>index.php" class="brand">
-      <span class="brand-badge">SC</span>
+      <span class="brand-badge">scnhs.jpg</span>
       <span class="brand-text">Sta. Catalina National High School<small>SPTA Payment Monitoring</small></span>
     </a>
     <button type="button" class="nav-toggle" id="navToggle" aria-label="Toggle navigation" aria-expanded="false">
